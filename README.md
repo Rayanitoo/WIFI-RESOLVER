@@ -1,4 +1,4 @@
-# Network Emergency Reset Tool
+# wifi resolver
 
 This program was created by **Rayan** to help users quickly repair and reset their Windows network settings when facing connectivity issues.  
 It performs a complete, safe reset of key network components — DNS, IP configuration, Wi-Fi profiles, Winsock, and more.
