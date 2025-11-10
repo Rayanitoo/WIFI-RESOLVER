@@ -1,5 +1,9 @@
+<div align="center">
 
 ![WIFI Resolver Logo](https://raw.githubusercontent.com/Rayanitoo/WIFI-RESOLVER/refs/heads/main/wifi%20resolver%20logo.ico)
+
+</div>
+
 # wifi resolver
 
 This program was created by **Rayan** to help users quickly repair and reset their Windows network settings when facing connectivity issues.  
